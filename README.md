@@ -1,7 +1,7 @@
 # Hi there, I'm Gayatri Gorde 👋
 
 ## 🎓 About Me
-I'm currently pursuing **Bachelor of Engineering in Information Technology**. Passionate about **Data Science, AI/ML, and Web Development**, I enjoy building projects that merge creativity with technology.  
+I'm currently pursuing **Bachelor of Engineering in Information Technology**. Passionate about **Data Science, AI/ML**, I enjoy building projects that merge creativity with technology.  
 
 ---
 
