@@ -6,8 +6,7 @@ I'm currently pursuing **Bachelor of Engineering in Information Technology**. Pa
 ---
 
 ## 💼 Profile Summary
-- Enthusiastic learner of **AI, Machine Learning, NLP, and Generative AI**.  
-- Experienced with **Front-end development** through projects like Netflix Clone and Tourism Website.  
+- Enthusiastic learner of **AI, Machine Learning, NLP, and Generative AI**. 
 - Completed internships in **Data Science and Front-end Development**, working with real datasets, ML models, and visualization tools.  
 - Actively exploring **LLMs, Prompt Engineering, and Generative AI** applications.  
 
